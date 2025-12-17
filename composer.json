@@ -1,0 +1,7 @@
+{
+    "name": "i/i",
+    "description": "The I namespace!",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {}
+}
